@@ -13,7 +13,7 @@ If a gangster meets a saver then the gangster has a 100% chance to reproduce.
 
 # Additional effects
 
-There are a few extra effects like if there is more savers than greeders then there will be a saver, or the greed burnout. 
+There are a few extra effects like if there is more savers than greeders then there will be an extra saver, or the greed burnout. 
 
 # Additional info
 
