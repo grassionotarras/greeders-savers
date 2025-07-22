@@ -1,4 +1,4 @@
-# greeders-savers
+# Greeders-Savers
 
 This program is simulating savers(Dove's) and greeders(Hawk's).
 
